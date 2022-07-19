@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: rgb(37, 94, 37);
+}
+
+.modal {
+  width: 500px;
+  background-color: white;
+  border-radius: 42px;
+  padding: 24px;
+  font-family: "Montserrat", sans-serif;
+  margin: 24px;
+}
+
+.modal-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 24px;
+  border-bottom: 1px solid rgb(112, 105, 105);
+}
+
+.close-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.instagram {
+  width: 80px;
+  height: 80px;
+  display: block;
+}
+
+.modal-link {
+  display: block;
+  width: 25%;
+  text-decoration: none;
+  color: black;
+}
+
+.youTube {
+  width: 80px;
+  height: 80px;
+  display: block;
+}
+
+.facebook {
+  width: 80px;
+  height: 80px;
+  display: block;
+}
+
+.tiktok {
+  width: 80px;
+  height: 80px;
+  display: block;
+}
+
+.modal-links {
+  display: flex;
+}
